@@ -16,3 +16,5 @@ Implementation of a Fast Digital Image Inpainting Algorithm
 
 Program  requires [opencv](https://github.com/jayrambhia/Install-OpenCV) to run.
 
+### Paper
+[Fast Digital Image Inpainting](http://www.inf.ufrgs.br/~oliveira/pubs_files/inpainting.pdf)
